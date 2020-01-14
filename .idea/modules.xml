@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Alien_Game.iml" filepath="$PROJECT_DIR$/.idea/Alien_Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../EmployeeScheduling/.idea/EmployeeScheduling.iml" filepath="$PROJECT_DIR$/../EmployeeScheduling/.idea/EmployeeScheduling.iml" />
       <module fileurl="file://$PROJECT_DIR$/../untitled1/.idea/My PyProject1.iml" filepath="$PROJECT_DIR$/../untitled1/.idea/My PyProject1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../eBay/.idea/eBay.iml" filepath="$PROJECT_DIR$/../eBay/.idea/eBay.iml" />
     </modules>
   </component>
 </project>
