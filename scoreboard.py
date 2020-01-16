@@ -18,6 +18,7 @@ class Scoreboard:
         self.prep_score()
         self.prep_high_score()
         self.prep_level()
+        self.prep_ships_left()
 
     def prep_score(self):
         """Turn the score into a rendered image."""
@@ -49,6 +50,7 @@ class Scoreboard:
         self.screen.blit(self.score_image, self.score_rect)
         self.screen.blit(self.high_score_image, self.high_score_rect)
         self.screen.blit(self.level_image, self.level_rect)
+        self.screen.blit(self.ships_left_image, self.ships_left_rect)
 
     def check_high_score(self):
         """Check to see if there's a new high score."""
@@ -66,3 +68,14 @@ class Scoreboard:
         self.level_rect = self.level_image.get_rect()
         self.level_rect.right = self.score_rect.right
         self.level_rect.top = self.score_rect.bottom + 10
+
+    def prep_ships_left(self):
+        """Turn the remaining ships into a rendered image."""
+        ships_left_str = "Lives " + str(self.stats.ships_left)
+        self.ships_left_image = self.font.render(ships_left_str, True, self.text_color,
+                                        self.settings.bg_color)
+
+        # Position the lives below the score.
+        self.ships_left_rect = self.ships_left_image.get_rect()
+        self.ships_left_rect.right = self.ships_left_rect.right
+        self.ships_left_rect.top = self.ships_left_rect.bottom
