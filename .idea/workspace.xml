@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d861209-d472-4608-b264-c5376bd539ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/adonis3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tsipras4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sounds/background_music.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sounds/bullet_sound.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sounds/bullet_sound2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sounds/fleet_excting.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sounds/fleet_excting2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sounds/game_end.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sounds/game_start.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alien_invasion.py" beforeDir="false" afterPath="$PROJECT_DIR$/alien_invasion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/adonis3.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/images/adonis3.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tsipras4.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/images/tsipras4.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Alien_Game" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Chris\PycharmProjects\Alien_Game\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V9wcXIeRXdRwlqYRZaeY3fXUNW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/alien_invasion.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Chris\PycharmProjects\Alien_Game\images" />
+      <recent name="C:\Users\Chris\PycharmProjects\untitled1\venv\My_Scratches" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Chris\PycharmProjects\untitled1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Alien_Game" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Chris\Anaconda3\envs\Alien_Game\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alien_invasion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="alien_invasion" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Alien_Game" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alien_invasion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d861209-d472-4608-b264-c5376bd539ba" name="Default Changelist" comment="" />
+      <created>1576678698706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576678698706</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Alien game">
+      <created>1576680350136</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576680350136</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Alien game">
+      <created>1576682176369</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576682176369</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Alien game">
+      <created>1576684568573</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576684568573</updated>
+    </task>
+    <task id="LOCAL-00004" summary="My_Scratches">
+      <created>1576935789375</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1576935789375</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Alien game">
+      <created>1576946508405</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1576946508405</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Alien game">
+      <created>1577101184812</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1577101184812</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Alien game">
+      <created>1577104254679</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1577104254679</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Alien game">
+      <created>1577105620090</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1577105620090</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Alien game">
+      <created>1577106159824</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1577106159824</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Alien game">
+      <created>1577106525280</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1577106525280</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Alien game">
+      <created>1577111570170</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1577111570170</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Alien game">
+      <created>1577115152353</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1577115152353</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Alien game">
+      <created>1577116155904</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1577116155904</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Alien game">
+      <created>1577116345074</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1577116345074</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Alien game">
+      <created>1579004181103</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1579004181103</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Alien game">
+      <created>1579021505779</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1579021505779</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Alien game">
+      <created>1579091501229</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1579091501229</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Alien game">
+      <created>1579093778317</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1579093778317</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Alien game">
+      <created>1579100563286</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1579100563286</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Alien game">
+      <created>1579113786420</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1579113786420</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Alien game">
+      <created>1579175615147</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1579175615147</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/Chris/PycharmProjects/untitled1/venv/My_Scratches" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="My_Scratches" />
+    <MESSAGE value="Alien game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alien game" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="180" key="#Inspections" timestamp="1577127374897">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="180" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1577127374897" />
+    <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579003804299">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579003804299" />
+    <state x="707" y="329" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576681636258">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="707" y="329" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576681636258" />
+    <state x="626" y="119" key="CommitChangelistDialog2" timestamp="1579175614264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="626" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579175614264" />
+    <state x="740" y="277" key="FileChooserDialogImpl" timestamp="1579003803019">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579003803019" />
+    <state x="786" y="420" key="Github.CreateGistDialog" timestamp="1579285701358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="786" y="420" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579285701358" />
+    <state width="1898" height="204" key="GridCell.Tab.0.bottom" timestamp="1579285514602">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1344" height="204" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579006772572" />
+    <state width="1898" height="204" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579285514602" />
+    <state width="1898" height="204" key="GridCell.Tab.0.center" timestamp="1579285514601">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1344" height="204" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579006772572" />
+    <state width="1898" height="204" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579285514601" />
+    <state width="1898" height="204" key="GridCell.Tab.0.left" timestamp="1579285514601">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1344" height="204" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579006772572" />
+    <state width="1898" height="204" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579285514601" />
+    <state width="1898" height="204" key="GridCell.Tab.0.right" timestamp="1579285514602">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1344" height="204" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579006772572" />
+    <state width="1898" height="204" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579285514602" />
+    <state x="463" y="151" key="SettingsEditor" timestamp="1577716116989">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577716116989" />
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2" timestamp="1579285751418">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579285751418" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1579285777855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579285777855" />
+    <state x="771" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576680162339">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="771" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576680162339" />
+  </component>
+</project>

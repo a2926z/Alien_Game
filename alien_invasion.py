@@ -17,7 +17,9 @@ class AlienInvasion:
         self.settings = Settings()
         self.screen = pygame.display.set_mode(
             (self.settings.screen_width, self.settings.screen_height))
-        pygame.display.set_caption("Alien Invasion")
+        pygame.display.set_caption("Adonis Vs Alexis")
+        effect = pygame.mixer.Sound('sounds/background_music.wav')
+        effect.play()
 
         # Create an instance to store game statistics.
         # and create a scoreboard.
@@ -35,6 +37,8 @@ class AlienInvasion:
 
         # Make the Play button.
         self.play_button = Button(self, "Play")
+        effect = pygame.mixer.Sound('sounds/game_start.wav')
+        effect.play()
 
     def run_game(self):
         """Start the main loop for the game."""
@@ -75,6 +79,7 @@ class AlienInvasion:
             self.sb.prep_level()
             self.sb.prep_ships_left()
 
+
             # Get rid of any remaining aliens and bullets.
             self.aliens.empty()
             self.bullets.empty()
@@ -96,6 +101,8 @@ class AlienInvasion:
             sys.exit()
         elif event.key == pygame.K_SPACE:
             self._fire_bullet()
+            effect = pygame.mixer.Sound('sounds/bullet_sound.wav')
+            effect.play()
 
     def _check_keyup_events(self, event):
         """Respond to key releases."""
@@ -140,6 +147,8 @@ class AlienInvasion:
             self.bullets.empty()
             self._create_fleet()
             self.settings.increase_speed()
+            effect = pygame.mixer.Sound('sounds/fleet_excting.wav')
+            effect.play()
 
             # Increase level.
             self.stats.level += 1
@@ -226,6 +235,8 @@ class AlienInvasion:
             # Decrement ships_left.
             self.stats.ships_left -= 1
             self.sb.prep_ships_left()
+            effect = pygame.mixer.Sound('sounds/game_end.wav')
+            effect.play()
 
             # Get rid of any remaining aliens and bullets.
             self.aliens.empty()
@@ -236,11 +247,13 @@ class AlienInvasion:
             self.ship.center_ship()
 
             # Pause.
-            sleep(0.5)
+            sleep(3)
 
         else:
             self.stats.game_active = False
             pygame.mouse.set_visible(True)
+            effect = pygame.mixer.Sound('sounds/game_end.wav')
+            effect.play()
 
     def _check_aliens_bottom(self):
         """Check if any aliens have reached the bottom of the screen."""
