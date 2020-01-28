@@ -9,7 +9,7 @@ base = None
 if sys.platform == "win32":
     base = "Win32GUI"
 
-executables = [Executable("alien_invasion.py", base=base)]
+executables = [Executable("alien_invasion.py", base=base, icon="icon.ico")]
 
 includefiles = ['sounds/background_music.wav', 'sounds/game_start.wav', 'sounds/bullet_sound.wav',
                 'sounds/fleet_excting.wav', 'sounds/game_end.wav', 'sounds/game_end.wav', 'images/adonis3.png',
